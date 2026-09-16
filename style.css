@@ -99,15 +99,15 @@
 }
 
 .conteudo-principal .paineis .projeto1 {
-    background-image: url('../src/img/Estudio_Arte_01.jpeg');
+    background-image: url('/src/img/estudio-arte-01.jpeg');
 }
 
 .conteudo-principal .paineis .projeto2 {
-    background-image: url('../src/img/Estudio_Arte_02.jpeg');
+    background-image: url('/src/img/estudio-arte-02.jpeg');
 }
 
 .conteudo-principal .paineis .projeto3 {
-    background-image: url('../src/img/Estudio_Arte_03.jpeg');
+    background-image: url('/src/img/estudio-arte-03.jpeg');
 }
 
 .conteudo-principal .paineis .imagem-painel.mostrar {
